@@ -6,7 +6,7 @@ Open Project folder in terminal
 
 - `git clone https://github.com/shloch/dotnet_agenda_project.git`
 - `cd dotnet_agenda_project`
-- `dotnet run watch`
+- `dotnet run watch` <br/>
 Open Browser with url
 - `https://localhost:{PORT}/`
 
